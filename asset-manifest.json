@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/Collection-Be-Website-Project/static/css/main.2c24917e.css",
-    "main.js": "/Collection-Be-Website-Project/static/js/main.6a88548b.js",
+    "main.js": "/Collection-Be-Website-Project/static/js/main.e36eba64.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Collection-Be-Website-Project/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/Collection-Be-Website-Project/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Collection-Be-Website-Project/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/Collection-Be-Website-Project/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Collection-Be-Website-Project/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/home-background.jpeg": "/Collection-Be-Website-Project/static/media/home-background.a0e5eb6d8c872c85c3e5.jpeg",
     "index.html": "/Collection-Be-Website-Project/index.html",
     "main.2c24917e.css.map": "/Collection-Be-Website-Project/static/css/main.2c24917e.css.map",
-    "main.6a88548b.js.map": "/Collection-Be-Website-Project/static/js/main.6a88548b.js.map"
+    "main.e36eba64.js.map": "/Collection-Be-Website-Project/static/js/main.e36eba64.js.map"
   },
   "entrypoints": [
     "static/css/main.2c24917e.css",
-    "static/js/main.6a88548b.js"
+    "static/js/main.e36eba64.js"
   ]
 }
