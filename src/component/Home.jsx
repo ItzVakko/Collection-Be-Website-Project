@@ -1,11 +1,12 @@
 import React from "react";
+import homeBackground from "./home-background.jpeg";
 
 const Home = () => {
   return (
     <div className="hero">
       <div className="card text-bg-dark border-0">
         <img
-          src="https://png.pngtree.com/thumb_back/fh260/back_our/20190619/ourmid/pngtree-shopping-mall-supermarket-selection-merchandise-poster-background-material-image_133225.jpg"
+          src={homeBackground}
           alt="bg"
           height="750px"
           className="card-img"
