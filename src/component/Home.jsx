@@ -1,11 +1,12 @@
 import React from "react";
+import homeBackground from "../../public/assets/home-background.jpeg";
 
 const Home = () => {
   return (
     <div className="hero">
       <div className="card text-bg-dark border-0">
         <img
-          src="/assets/home-background.jpeg"
+          src={homeBackground}
           alt="bg"
           height="750px"
           className="card-img"
